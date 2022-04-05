@@ -7,7 +7,7 @@ FlyAway is a ticket-booking portal that lets people book flights on their websit
 ● Once a person selects a flight to book, they will be taken to a register page where they must fill in their personal details. In the next page, they are shown the flight details of the flight that they are booking, and the payment is done via a dummy payment gateway. On completion of the payment, they are shown a confirmation page with the details of the booking.   
  
 
-For the above features to work, there will be an admin backend with the following features:
+For the above features to work, there is an an admin backend with the following features:
 
 ● An admin login page where the admin can change the password after login, if he wishes
 ● A master list of places for source and destination
